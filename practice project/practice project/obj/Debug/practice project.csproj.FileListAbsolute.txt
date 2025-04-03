@@ -1,0 +1,11 @@
+C:\Users\Nimap\source\repos\practice project\practice project\bin\Debug\practice project.exe.config
+C:\Users\Nimap\source\repos\practice project\practice project\bin\Debug\practice project.exe
+C:\Users\Nimap\source\repos\practice project\practice project\bin\Debug\practice project.pdb
+C:\Users\Nimap\source\repos\practice project\practice project\obj\Debug\practice project.csproj.AssemblyReference.cache
+C:\Users\Nimap\source\repos\practice project\practice project\obj\Debug\practice project.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\practice project\practice project\obj\Debug\practice project.exe
+C:\Users\Nimap\source\repos\practice project\practice project\obj\Debug\practice project.pdb
+C:\Users\Nimap\source\repos\practice project\practice project\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\Nimap\source\repos\practice project\practice project\bin\Debug\NCalc.dll
+C:\Users\Nimap\source\repos\practice project\practice project\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\Nimap\source\repos\practice project\practice project\obj\Debug\practice.00A00CBE.Up2Date
